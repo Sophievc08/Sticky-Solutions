@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+        <!-- HEADINGS -->
+
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width">
+          <link href="style.css" rel="stylesheet" type="text/css" />
+          <title>Sticky Solutions </title>
+          <link href="<link rel=" preconnect" href="https://fonts.gstatic.com">
+          <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+        </head>
+          <body style="background-color:#c8a6dd">
+            
+       
+          <!--Heading tags-->
+
+            <h1  style="color:white;background-color:#64009e;border-style: solid; border-color:#Ffffff; border-width: 5px; border-radius: 10px 10px 10px 10px; border-radius: 10px 10px 10px 10px;font-family: 'Dancing Script', cursive;"  >
+              <img src="logo.png" alt="Sticky Solutions Logo" style="width: 50px;height:50px;"> Sticky Solutions</h1>
+             <!--Slogan tags-->
+<body> <h2 style="font-family: 'Dancing Script', cursive;">Sticky Solutions for Sticky Situations!</h2>
+  <hr>
+            <!--Buttons-->
+
+<!-- index.html -->
+                  <!DOCTYPE html>
+                <html lang="en">
+               <head 
+                 </style>
+     <button onclick="window.location.href='AboutUs.html'">About us</button>
+    <button onclick="window.location.href='Reviews.html'"> Reviews</button>
+    <button onclick="window.location.href='Our Team.html'"> Our Team</button>
+    <button onclick="window.location.href='ContactUs.html'">Contact Us</button>
+    <button>Socials</button>
+                        </head>
+                          
+                          
+ <!--heading2-->
+  <b><h2 style="color:black; font-family: 'Dancing Script', cursive;">About Our Business</h2></b>
+  <!--About Business text-->
+  <h3>We are a TY mini-company who create, customise and produce custom stickers of any shape, colour and design.</h3>
+  
+  </body>
+  </html>
+
+  <br>
+  <br>
+  <h4 style="border-style:solid;">Click <a style="color:white;" href="https://mail.google.com/mail/u/4/#inbox?compose=CllgCJfttfrdKrKbtSlWpFXmXCMtPrKQpzgxvSWkjBcDLXTPRQhDFvWjhPZRwjfjkNqRvRzKhKL">Here</a> To send an email of enquiry</h4>
+
+
+</html>
